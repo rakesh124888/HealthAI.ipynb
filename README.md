@@ -41,3 +41,4 @@ PyPDF2
 torch
 
 demo video
+https://drive.google.com/file/d/1-eTneRj5KRC38ev6MCdpqeY-mwyewwq5/view?usp=drive_link
